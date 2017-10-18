@@ -1,0 +1,11 @@
+---
+title: "Readme"
+author: "Reed"
+date: "October 18, 2017"
+output: html_document
+---
+##trying to explore with git and git hub
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
